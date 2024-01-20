@@ -1,2 +1,2 @@
 # AnalogDiscreteChaosSynchronization
-Data of the experimetnal study
+Data of the experimental study
